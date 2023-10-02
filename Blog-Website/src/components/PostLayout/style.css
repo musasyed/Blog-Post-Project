@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mainContainer{
+    /* background-color: blueviolet; */
+    /* width: 70%; */
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.innerContainer{
+    background-color: brown;
+    height: 350px;
+    width: 70%;
+    padding: 50px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-right: 10px;
+   
+}
