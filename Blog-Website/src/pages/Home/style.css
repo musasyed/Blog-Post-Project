@@ -1,0 +1,10 @@
+.button{
+    /* text-align: center; */
+    background-color: red;
+    color: rgb(255, 255, 255);
+    
+}
+.button-Home{
+    text-align: center;
+    margin-top: 50px;
+}
